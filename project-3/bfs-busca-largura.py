@@ -37,7 +37,7 @@ class Graph:
             """
 
             for i in self.graph[s]:
-                #print(visited[i])
+                print(visited[i])
                 if visited[i] == False:
                     queue.append(i)
                     visited[i] = True

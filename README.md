@@ -23,5 +23,5 @@ Atividades e Projetos da disciplina de Teoria dos Grafos e Pequisa Operacional
 
 ## Datas das Avaliações
 
-- A1 -> 06/10/2022
+- A1 -> 13/10/2022
 - A2 -> 01/12/2022
